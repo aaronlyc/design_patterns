@@ -4,7 +4,7 @@ import "fmt"
 
 type classes struct {
 	dishes []price
-	name string
+	name   string
 }
 
 func (c *classes) addPrice(i *int) {
@@ -17,4 +17,3 @@ func (c *classes) addPrice(i *int) {
 func (c *classes) addDish(d price) {
 	c.dishes = append(c.dishes, d)
 }
-

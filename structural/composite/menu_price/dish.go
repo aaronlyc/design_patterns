@@ -3,9 +3,9 @@ package menu_price
 import "fmt"
 
 type dish struct {
-	number int
+	number   int
 	perPrice int
-	name string
+	name     string
 }
 
 func (d *dish) addPrice(i *int) {
@@ -16,4 +16,3 @@ func (d *dish) addPrice(i *int) {
 func (d *dish) getPrice() int {
 	return d.number * d.perPrice
 }
-

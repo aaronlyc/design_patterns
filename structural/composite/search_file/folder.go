@@ -4,7 +4,7 @@ import "fmt"
 
 type folder struct {
 	components []component
-	name string
+	name       string
 }
 
 func (f *folder) search(s string) {
@@ -17,4 +17,3 @@ func (f *folder) search(s string) {
 func (f *folder) add(c component) {
 	f.components = append(f.components, c)
 }
-

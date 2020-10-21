@@ -28,15 +28,15 @@ func TestMenu(t *testing.T) {
 	}
 
 	classes1 := &classes{
-		name:   "肉类",
+		name: "肉类",
 	}
 
 	classes2 := &classes{
-		name:   "蛋类",
+		name: "蛋类",
 	}
 
 	classes3 := &classes{
-		name:   "蔬菜",
+		name: "蔬菜",
 	}
 
 	classes1.addDish(dish4)

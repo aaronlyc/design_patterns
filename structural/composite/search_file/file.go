@@ -13,4 +13,3 @@ func (f *file) search(s string) {
 func (f *file) getName() string {
 	return f.name
 }
-
