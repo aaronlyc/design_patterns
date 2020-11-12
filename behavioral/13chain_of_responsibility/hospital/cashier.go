@@ -3,19 +3,19 @@ package hospital
 import "fmt"
 
 // 定义收银的行为
-type cashier struct {
+type Cashier struct {
 	next department
 }
 
-func (c *cashier) execute(p *patient) {
-	if p.paymentDone {
+func (c *Cashier) Execute(p *Patient) {
+	if p.PaymentDone {
 		fmt.Println("Payment Done")
 	} else {
 		fmt.Println("Cashier getting money from patient")
-		p.paymentDone = true
+		p.PaymentDone = true
 	}
 }
 
-func (c *cashier) setNext(next department) {
+func (c *Cashier) SetNext(next department) {
 	c.next = next
 }

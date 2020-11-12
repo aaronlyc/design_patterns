@@ -3,21 +3,21 @@ package hospital
 import "fmt"
 
 // 定义前台接待员的行为
-type reception struct {
+type Reception struct {
 	next department
 }
 
-func (r *reception) execute(p *patient) {
-	if p.registrationDone {
+func (r *Reception) Execute(p *Patient) {
+	if p.RegistrationDone {
 		fmt.Println("Patient registration already done")
 	} else {
 		fmt.Println("Reception registering patient")
 		fmt.Println("waiting some time...")
-		p.registrationDone = true
+		p.RegistrationDone = true
 	}
-	r.next.execute(p)
+	r.next.Execute(p)
 }
 
-func (r *reception) setNext(next department) {
+func (r *Reception) SetNext(next department) {
 	r.next = next
 }

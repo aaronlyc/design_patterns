@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="" />
+    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/cashier.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/cashier.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/department.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/department.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/hospital_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/medical.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/medical.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/reception.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/reception.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,9 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
@@ -31,8 +43,12 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -110,6 +126,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -118,6 +137,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2657" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491289737" />
+    <state x="656" y="292" key="EnvironmentVariablesDialog" timestamp="1604738086608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="656" y="292" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604738086608" />
     <state width="1898" height="236" key="GridCell.Tab.0.bottom" timestamp="1602496126333">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -150,5 +173,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1898" height="361" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491914924" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1605197127877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605197127877" />
   </component>
 </project>

@@ -3,21 +3,21 @@ package hospital
 import "fmt"
 
 // 定义药房的行为
-type medical struct {
+type Medical struct {
 	next department
 }
 
-func (m *medical) execute(p *patient) {
-	if p.medicineDone {
+func (m *Medical) Execute(p *Patient) {
+	if p.MedicineDone {
 		fmt.Println("Medicine already given to patient")
 	} else {
 		fmt.Println("Medical giving medicine to patient")
 		fmt.Println("waiting some time...")
-		p.medicineDone = true
+		p.MedicineDone = true
 	}
-	m.next.execute(p)
+	m.next.Execute(p)
 }
 
-func (m *medical) setNext(next department) {
+func (m *Medical) SetNext(next department) {
 	m.next = next
 }

@@ -2,15 +2,15 @@ package hospital
 
 // 部门处理者接口
 type department interface {
-	execute(*patient)
-	setNext(department)
+	Execute(*Patient)
+	SetNext(department)
 }
 
 // 病人
-type patient struct {
-	name              string
-	registrationDone  bool
-	doctorCheckUpDone bool
-	medicineDone      bool
-	paymentDone       bool
+type Patient struct {
+	Name              string
+	RegistrationDone  bool
+	DoctorCheckUpDone bool
+	MedicineDone      bool
+	PaymentDone       bool
 }
