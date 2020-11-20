@@ -1,4 +1,4 @@
-package _builder
+package part
 
 type Builder interface {
 	Part1()

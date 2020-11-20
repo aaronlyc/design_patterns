@@ -1,4 +1,4 @@
-package _prototype
+package able
 
 type Cloneable interface {
 	Clone() Cloneable

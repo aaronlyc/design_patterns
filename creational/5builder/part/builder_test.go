@@ -1,4 +1,4 @@
-package _builder
+package part
 
 import "testing"
 
