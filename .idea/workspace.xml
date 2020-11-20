@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="">
+    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="add ginkgo test case">
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/ak47.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun_factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun_factory_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/iGun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/musket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/adidas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_shirt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_shoe.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_sports_factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/nike.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/builder.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/builder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/director.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/director.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/house.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/house.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/igloo.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/igloo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/normal.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/normal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/part/builder.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/part/builder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/5builder/part/builder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/part/builder_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/able/prototype.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/able/prototype.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/able/prototype_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/able/prototype_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/clone_folder/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/clone_folder/file.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/clone_folder/folder.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/clone_folder/folder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/clone_folder/inode.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/clone_folder/inode.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/6prototype/clone_folder/inode_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/6prototype/clone_folder/inode_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/computer.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/computer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/computer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/computer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/mac.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/mac.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural/12adapter/lightning/wondowsAdapter.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/12adapter/lightning/wondowsAdapter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/1simple_factory/simple_factory.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/1simple_factory/cola/simple_factory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/1simple_factory/simple_factory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/1simple_factory/cola/simple_factory_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/3abstract_factory/abstract_factory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +69,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\文档\go\src\design_patterns\creational\5builder\part" />
-      <recent name="D:\文档\go\src\design_patterns\creational\6prototype\able" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\aaron\go\src\design_patterns\creational\3abstract_factory\sports" />
+      <recent name="\\wsl$\Ubuntu-18.04\home\aaron\go\src\design_patterns\creational\1simple_factory\cola" />
       <recent name="D:\文档\go\src\design_patterns\decorator\pizza" />
       <recent name="D:\文档\go\src\design_patterns\composite\search_file" />
     </key>
@@ -163,10 +160,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2657" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491289737" />
-    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605198786693">
+    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605830785761">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605198786693" />
+    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605830785761" />
     <state x="656" y="292" key="EnvironmentVariablesDialog" timestamp="1605198974322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -207,14 +204,25 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1898" height="361" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491914924" />
+    <state x="147" y="69" width="1274" height="726" key="MergeDialog" timestamp="1605871645517">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="147" y="69" width="1274" height="726" key="MergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1605871645517" />
     <state x="270" y="77" key="SettingsEditor" timestamp="1605199165037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605199165037" />
-    <state x="2371" y="206" key="Vcs.Push.Dialog.v2" timestamp="1605865331481">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605199508893">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605199492267" />
-    <state x="2371" y="206" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605865331481" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605199508893" />
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605871667686">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1605871667686" />
+    <state x="468" y="164" width="805" height="536" key="find.popup" timestamp="1605877428621">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="164" width="805" height="536" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1605877428621" />
   </component>
 </project>

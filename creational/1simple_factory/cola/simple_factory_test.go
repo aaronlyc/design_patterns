@@ -1,4 +1,4 @@
-package _simple_factory
+package cola
 
 import (
 	"reflect"

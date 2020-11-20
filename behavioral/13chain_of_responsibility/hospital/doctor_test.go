@@ -18,7 +18,6 @@ var _ = Describe("Doctor", func() {
 		reception.SetNext(doctor)
 	})
 
-
 	Describe("测试病人不同阶段的流程", func() {
 		Context("病人刚开始来的流程", func() {
 			It("这将从前台开始", func() {
