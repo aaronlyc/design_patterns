@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="add ginkgo test case" />
+    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +159,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ginkgo test case" />
@@ -170,10 +173,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2657" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491289737" />
-    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605882779601">
+    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605955460586">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605882779601" />
+    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605955460586" />
     <state x="656" y="292" key="EnvironmentVariablesDialog" timestamp="1605198974322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -222,10 +225,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605199165037" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605199508893">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605955468445">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605199508893" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605955468445" />
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605871667686">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
