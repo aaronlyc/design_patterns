@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/5builder/iBuilder/builder_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/computer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/epson.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/hp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/mac.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/printer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/11bridge/printer/windows.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
