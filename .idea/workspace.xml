@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="add ginkgo test case">
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/ak47.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun_factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/gun_factory_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/iGun.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/1simple_factory/gun/musket.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/adidas.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_shirt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_shoe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/i_sports_factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/3abstract_factory/sports/nike.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/13chain_of_responsibility/hospital/doctor_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1simple_factory/simple_factory.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/1simple_factory/cola/simple_factory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/1simple_factory/simple_factory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/1simple_factory/cola/simple_factory_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational/3abstract_factory/abstract_factory.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-    </list>
+    <list default="true" id="9510bcdf-f301-47e3-8d03-6d573e72a55f" name="Default Changelist" comment="add ginkgo test case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +147,17 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ginkgo test case" />
     <option name="LAST_COMMIT_MESSAGE" value="add ginkgo test case" />
@@ -160,10 +170,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2657" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602491289737" />
-    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605830785761">
+    <state x="395" y="17" key="CommitChangelistDialog2" timestamp="1605882779601">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605830785761" />
+    <state x="395" y="17" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605882779601" />
     <state x="656" y="292" key="EnvironmentVariablesDialog" timestamp="1605198974322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
